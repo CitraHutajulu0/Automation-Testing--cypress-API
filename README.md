@@ -1,2 +1,2 @@
-# tugas13-cypress-API
-dipergunakan untuk mengerjakan tugas 13 cypress API
+# Automation Testing-cypress-API
+dipergunakan untuk membuat Automation Testing menggunakan Cypress API
